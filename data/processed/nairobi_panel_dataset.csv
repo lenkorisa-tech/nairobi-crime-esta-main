@@ -1,0 +1,120 @@
+Sub_County,Year,Crime_Count,Settlement_Typology
+Westlands,2018,182.0,Formal/Mixed-Use
+Westlands,2019,226.0,Formal/Mixed-Use
+Westlands,2020,228.0,Formal/Mixed-Use
+Westlands,2021,,Formal/Mixed-Use
+Westlands,2022,188.0,Formal/Mixed-Use
+Westlands,2023,120.0,Formal/Mixed-Use
+Westlands,2024,123.0,Formal/Mixed-Use
+Dagoretti North,2018,63.0,Formal/Mixed-Use
+Dagoretti North,2019,121.0,Formal/Mixed-Use
+Dagoretti North,2020,104.0,Formal/Mixed-Use
+Dagoretti North,2021,79.0,Formal/Mixed-Use
+Dagoretti North,2022,153.0,Formal/Mixed-Use
+Dagoretti North,2023,78.0,Formal/Mixed-Use
+Dagoretti North,2024,,Formal/Mixed-Use
+Dagoretti South,2018,119.0,Formal/Mixed-Use
+Dagoretti South,2019,135.0,Formal/Mixed-Use
+Dagoretti South,2020,149.0,Formal/Mixed-Use
+Dagoretti South,2021,,Formal/Mixed-Use
+Dagoretti South,2022,97.0,Formal/Mixed-Use
+Dagoretti South,2023,86.0,Formal/Mixed-Use
+Dagoretti South,2024,204.0,Formal/Mixed-Use
+Langata,2018,186.0,Formal/Mixed-Use
+Langata,2019,,Formal/Mixed-Use
+Langata,2020,158.0,Formal/Mixed-Use
+Langata,2021,,Formal/Mixed-Use
+Langata,2022,76.0,Formal/Mixed-Use
+Langata,2023,114.0,Formal/Mixed-Use
+Langata,2024,167.0,Formal/Mixed-Use
+Kibra,2018,61.0,Informal Settlement
+Kibra,2019,,Informal Settlement
+Kibra,2020,116.0,Informal Settlement
+Kibra,2021,,Informal Settlement
+Kibra,2022,180.0,Informal Settlement
+Kibra,2023,194.0,Informal Settlement
+Kibra,2024,,Informal Settlement
+Roysambu,2018,187.0,Formal/Mixed-Use
+Roysambu,2019,74.0,Formal/Mixed-Use
+Roysambu,2020,,Formal/Mixed-Use
+Roysambu,2021,204.0,Formal/Mixed-Use
+Roysambu,2022,190.0,Formal/Mixed-Use
+Roysambu,2023,217.0,Formal/Mixed-Use
+Roysambu,2024,168.0,Formal/Mixed-Use
+Kasarani,2018,117.0,Formal/Mixed-Use
+Kasarani,2019,318.0,Formal/Mixed-Use
+Kasarani,2020,103.0,Formal/Mixed-Use
+Kasarani,2021,,Formal/Mixed-Use
+Kasarani,2022,,Formal/Mixed-Use
+Kasarani,2023,,Formal/Mixed-Use
+Kasarani,2024,154.0,Formal/Mixed-Use
+Ruaraka,2018,50.0,Formal/Mixed-Use
+Ruaraka,2019,110.0,Formal/Mixed-Use
+Ruaraka,2020,,Formal/Mixed-Use
+Ruaraka,2021,187.0,Formal/Mixed-Use
+Ruaraka,2022,195.0,Formal/Mixed-Use
+Ruaraka,2023,166.0,Formal/Mixed-Use
+Ruaraka,2024,154.0,Formal/Mixed-Use
+Embakasi South,2018,198.0,Informal Settlement
+Embakasi South,2019,,Informal Settlement
+Embakasi South,2020,,Informal Settlement
+Embakasi South,2021,,Informal Settlement
+Embakasi South,2022,,Informal Settlement
+Embakasi South,2023,17.0,Informal Settlement
+Embakasi South,2024,,Informal Settlement
+Embakasi North,2018,167.0,Formal/Mixed-Use
+Embakasi North,2019,160.0,Formal/Mixed-Use
+Embakasi North,2020,48.0,Formal/Mixed-Use
+Embakasi North,2021,149.0,Formal/Mixed-Use
+Embakasi North,2022,66.0,Formal/Mixed-Use
+Embakasi North,2023,155.0,Formal/Mixed-Use
+Embakasi North,2024,128.0,Formal/Mixed-Use
+Embakasi Central,2018,140.0,Formal/Mixed-Use
+Embakasi Central,2019,165.0,Formal/Mixed-Use
+Embakasi Central,2020,207.0,Formal/Mixed-Use
+Embakasi Central,2021,187.0,Formal/Mixed-Use
+Embakasi Central,2022,220.0,Formal/Mixed-Use
+Embakasi Central,2023,79.0,Formal/Mixed-Use
+Embakasi Central,2024,100.0,Formal/Mixed-Use
+Embakasi East,2018,121.0,Formal/Mixed-Use
+Embakasi East,2019,150.0,Formal/Mixed-Use
+Embakasi East,2020,131.0,Formal/Mixed-Use
+Embakasi East,2021,176.0,Formal/Mixed-Use
+Embakasi East,2022,104.0,Formal/Mixed-Use
+Embakasi East,2023,130.0,Formal/Mixed-Use
+Embakasi East,2024,105.0,Formal/Mixed-Use
+Embakasi West,2018,190.0,Formal/Mixed-Use
+Embakasi West,2019,88.0,Formal/Mixed-Use
+Embakasi West,2020,69.0,Formal/Mixed-Use
+Embakasi West,2021,,Formal/Mixed-Use
+Embakasi West,2022,159.0,Formal/Mixed-Use
+Embakasi West,2023,77.0,Formal/Mixed-Use
+Embakasi West,2024,209.0,Formal/Mixed-Use
+Makadara,2018,312.0,Formal/Mixed-Use
+Makadara,2019,317.0,Formal/Mixed-Use
+Makadara,2020,,Formal/Mixed-Use
+Makadara,2021,311.0,Formal/Mixed-Use
+Makadara,2022,,Formal/Mixed-Use
+Makadara,2023,,Formal/Mixed-Use
+Makadara,2024,342.0,Formal/Mixed-Use
+Starehe,2018,393.0,Formal/Mixed-Use
+Starehe,2019,323.0,Formal/Mixed-Use
+Starehe,2020,251.0,Formal/Mixed-Use
+Starehe,2021,339.0,Formal/Mixed-Use
+Starehe,2022,348.0,Formal/Mixed-Use
+Starehe,2023,320.0,Formal/Mixed-Use
+Starehe,2024,287.0,Formal/Mixed-Use
+Mathare,2018,,Informal Settlement
+Mathare,2019,112.0,Informal Settlement
+Mathare,2020,,Informal Settlement
+Mathare,2021,210.0,Informal Settlement
+Mathare,2022,,Informal Settlement
+Mathare,2023,,Informal Settlement
+Mathare,2024,,Informal Settlement
+Kamukunji,2018,326.0,Informal Settlement
+Kamukunji,2019,,Informal Settlement
+Kamukunji,2020,,Informal Settlement
+Kamukunji,2021,293.0,Informal Settlement
+Kamukunji,2022,337.0,Informal Settlement
+Kamukunji,2023,277.0,Informal Settlement
+Kamukunji,2024,,Informal Settlement

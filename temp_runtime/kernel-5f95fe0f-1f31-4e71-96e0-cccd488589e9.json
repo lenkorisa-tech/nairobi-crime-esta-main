@@ -1,0 +1,13 @@
+{
+  "shell_port": 54245,
+  "iopub_port": 54246,
+  "stdin_port": 54247,
+  "control_port": 54249,
+  "hb_port": 54248,
+  "ip": "127.0.0.1",
+  "key": "f7fa7192-d1e246f96959f4beece332a4",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "esta",
+  "jupyter_session": "C:\\Users\\kecab\\nairobi-crime-esta-main\\nairobi-crime-esta-main\\notebooks\\Spatial\\01_eda.ipynb"
+}

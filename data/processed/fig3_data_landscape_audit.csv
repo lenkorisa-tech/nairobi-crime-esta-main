@@ -1,0 +1,4 @@
+Data Source,Data Type,Spatial Resolution,Temporal Resolution,Can Support Sub-County ML Prediction?
+KNBS Economic Survey,Quantitative (Police Records),Command Station (Aggregated),Annual (2018-2024),❌ NO (Resolution too coarse)
+NCRC Perception Survey,Quantitative (Public Perception),County Level,Single Point (2022),"❌ NO (Perception, not incidents)"
+NCRC Crime Mapping (PDF),Qualitative (Hotspots/Gangs),Sub-County / Village Level,Single Point (2022),"❌ NO (Qualitative, not numeric)"

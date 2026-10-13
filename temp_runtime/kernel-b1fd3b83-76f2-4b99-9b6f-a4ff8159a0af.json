@@ -1,0 +1,13 @@
+{
+  "shell_port": 50271,
+  "iopub_port": 50272,
+  "stdin_port": 50273,
+  "control_port": 50275,
+  "hb_port": 50274,
+  "ip": "127.0.0.1",
+  "key": "19501b84-9f337ef9fb047a5be2b11830",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "esta",
+  "jupyter_session": "C:\\Users\\kecab\\nairobi-crime-esta-main\\nairobi-crime-esta-main\\Untitled.ipynb"
+}

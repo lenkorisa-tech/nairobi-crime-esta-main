@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 5644,
+  "port": 8888,
+  "root_dir": "C:\\Users\\kecab\\nairobi-crime-esta-main\\nairobi-crime-esta-main",
+  "secure": false,
+  "sock": "",
+  "token": "9afef9535df5b380ee905683725952fd947708f41235d6f5",
+  "url": "http://localhost:8888/",
+  "version": "2.19.0"
+}

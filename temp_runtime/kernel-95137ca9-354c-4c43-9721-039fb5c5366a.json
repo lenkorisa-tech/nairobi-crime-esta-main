@@ -1,0 +1,13 @@
+{
+  "shell_port": 62320,
+  "iopub_port": 62321,
+  "stdin_port": 62322,
+  "control_port": 62324,
+  "hb_port": 62323,
+  "ip": "127.0.0.1",
+  "key": "68b7666b-de97f2d229b9360e4248c82d",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "esta",
+  "jupyter_session": "C:\\Users\\kecab\\nairobi-crime-esta-main\\nairobi-crime-esta-main\\03_spatial_mapping.ipynb"
+}

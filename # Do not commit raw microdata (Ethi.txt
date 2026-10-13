@@ -1,0 +1,18 @@
+# Do not commit raw microdata (Ethics compliance)
+data/raw/*
+!data/raw/.gitkeep
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+venv/
+env/
+.conda/
+
+# Jupyter checkpoints
+.ipynb_checkpoints
+*.ipynb
+
+# OS files
+.DS_Store
+Thumbs.db
