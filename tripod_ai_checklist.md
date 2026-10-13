@@ -1,64 +1,24 @@
-&#x20;  # TRIPOD-AI Compliance Checklist (Adapted for Spatial Predictive Modeling)
+# TRIPOD-AI Transparency Checklist
 
+This document details the project's adherence to the Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis - Artificial Intelligence (TRIPOD-AI) guidelines, adapted for spatial predictive modeling.
 
+## 1. Title & Abstract
+- [x] **Exploratory Nature**: The title and abstract clearly state the exploratory and evaluative nature of the study regarding predictive policing readiness, rather than claiming a deployable operational tool.
 
-&#x20;  This checklist ensures the Nairobi Crime Estimation project aligns with the Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis - Artificial Intelligence (TRIPOD-AI) guidelines.
+## 2. Methods
+- [x] **Data Sources**: Details the use of aggregated Kenya National Bureau of Statistics (KNBS) and National Crime Research Centre (NCRC) data, explicitly noting the absence of incident-level, geo-tagged microdata.
+- [x] **Modeling Approach**: Methods detail the use of spatial block cross-validation (CV) and Bayesian Conditional Autoregressive (CAR) priors to account for spatial autocorrelation.
+- [x] **Missing Data**: Methods and results present Missing Not At Random (MNAR) patterns, acknowledging structural data gaps in specific regions.
 
+## 3. Results
+- [x] **Performance & Equity**: Results present both predictive performance metrics and formal equity audit outcomes. 
+- [x] **Fairness Metrics**: Reports a Demographic Parity Difference (DPD) of ~0.504, highlighting a severe representational bias and data completeness gap between formal/mixed wards and informal/high-density settlements (e.g., Mathare, Kibra, Makadara).
 
+## 4. Discussion
+- [x] **Limitations**: Critically addresses the Modifiable Areal Unit Problem (MAUP) and Small-N constraints inherent in aggregated sub-county data.
+- [x] **Ethical Implications**: Explicitly states that deploying standard ML predictive policing models on this aggregated data would inherit structural biases, systematically mischaracterizing marginalized communities. 
 
-&#x20;  ## Title \& Abstract
-
-&#x20;  - \[x] Title identifies the study as developing/validating a predictive model.
-
-&#x20;  - \[x] Abstract summarizes objectives, data sources, methods, and key fairness findings.
-
-
-
-&#x20;  ## Introduction
-
-&#x20;  - \[x] Rationale: Explains the need for predictive policing readiness assessment in Nairobi.
-
-&#x20;  - \[x] Objectives: Clearly states the goal of spatial-temporal hotspot prediction and ethical auditing.
-
-
-
-&#x20;  ## Methods
-
-&#x20;  - \[x] Data Source: Describes KNBS and OSM data, including inclusion/exclusion criteria.
-
-&#x20;  - \[x] Variables: Clearly defines predictors (Year, Settlement Typology) and outcome (Crime Count).
-
-&#x20;  - \[x] Sample Size: Acknowledges the panel dataset structure and temporal granularity.
-
-&#x20;  - \[x] Missing Data: Details how missing values were handled (e.g., imputation or exclusion).
-
-&#x20;  - \[x] Model Development: Specifies the algorithm used (e.g., Random Forest baseline) and software (Python, scikit-learn).
-
-
-
-&#x20;  ## Results
-
-&#x20;  - \[x] Demographics/Data Characteristics: Provides summary statistics of the panel dataset.
-
-&#x20;  - \[x] Model Performance: Reports predictive metrics and spatial clustering results.
-
-&#x20;  - \[x] Fairness Audit: Reports DPD and EOD metrics across sensitive attributes (Sub-County).
-
-
-
-&#x20;  ## Discussion
-
-&#x20;  - \[x] Limitations: Discusses data quality, potential historical biases in policing data, and spatial aggregation limits.
-
-&#x20;  - \[x] Interpretation: Cautions against direct operational deployment without further bias mitigation.
-
-&#x20;  - \[x] Conclusion: Summarizes readiness level and recommends next steps for ethical AI in Nairobi.
-
-
-
-&#x20;  ## Supplementary Materials
-
-&#x20;  - \[x] Code repository link and `requirements.txt` for full reproducibility.
-
-&#x20;  - \[x] `representational\_bias\_report.md` appended for transparency.
-
+## 5. Computational Pipeline & Reproducibility Artifacts
+- [x] **Code Repository**: Publicly available at [https://github.com/lenkorisa-tech/nairobi-crime-esta-main](https://github.com/lenkorisa-tech/nairobi-crime-esta-main) (MIT License).
+- [x] **Repository Contents**: Includes `data/` (anonymized CSV/GeoJSON), `notebooks/` (Jupyter EDA workflows), `src/` (Modular Python scripts for ESTA & fairness audits), `requirements.txt`, and `Dockerfile`.
+- [x] **Environment Pinning**: Global random seed (`random_state=42`) is set for all stochastic operations to ensure exact reproducibility.
