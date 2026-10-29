@@ -1,0 +1,120 @@
+Year,Sub_County,Estimated_Total_Crimes,Population,Settlement_Typology,Reported_Count,Missing_Count,Applied_Reporting_Rate
+2018,Westlands,475,310000,Formal/Mixed-Use,404.0,71.0,0.85
+2018,Dagoretti North,429,280000,Formal/Mixed-Use,365.0,64.0,0.85
+2018,Dagoretti South,236,154000,Formal/Mixed-Use,201.0,35.0,0.85
+2018,Langata,303,197489,Formal/Mixed-Use,258.0,45.0,0.85
+2018,Kibra,285,185777,Informal Settlement,,,0.476
+2018,Roysambu,460,300000,Formal/Mixed-Use,391.0,69.0,0.85
+2018,Kasarani,735,480000,Formal/Mixed-Use,625.0,110.0,0.85
+2018,Ruaraka,490,320000,Formal/Mixed-Use,416.0,74.0,0.85
+2018,Embakasi South,429,280000,Informal Settlement,204.0,225.0,0.476
+2018,Embakasi North,475,310000,Formal/Mixed-Use,404.0,71.0,0.85
+2018,Embakasi Central,444,290000,Formal/Mixed-Use,,,0.85
+2018,Embakasi East,506,330000,Formal/Mixed-Use,430.0,76.0,0.85
+2018,Embakasi West,521,340000,Formal/Mixed-Use,443.0,78.0,0.85
+2018,Makadara,290,189536,Formal/Mixed-Use,246.0,44.0,0.85
+2018,Starehe,322,210423,Formal/Mixed-Use,274.0,48.0,0.85
+2018,Mathare,317,206564,Informal Settlement,,,0.476
+2018,Kamukunji,411,268276,Informal Settlement,196.0,215.0,0.476
+2019,Westlands,547,310000,Formal/Mixed-Use,465.0,82.0,0.85
+2019,Dagoretti North,494,280000,Formal/Mixed-Use,420.0,74.0,0.85
+2019,Dagoretti South,272,154000,Formal/Mixed-Use,231.0,41.0,0.85
+2019,Langata,349,197489,Formal/Mixed-Use,297.0,52.0,0.85
+2019,Kibra,328,185777,Informal Settlement,,,0.476
+2019,Roysambu,529,300000,Formal/Mixed-Use,450.0,79.0,0.85
+2019,Kasarani,847,480000,Formal/Mixed-Use,720.0,127.0,0.85
+2019,Ruaraka,565,320000,Formal/Mixed-Use,480.0,85.0,0.85
+2019,Embakasi South,494,280000,Informal Settlement,235.0,259.0,0.476
+2019,Embakasi North,547,310000,Formal/Mixed-Use,465.0,82.0,0.85
+2019,Embakasi Central,512,290000,Formal/Mixed-Use,435.0,77.0,0.85
+2019,Embakasi East,582,330000,Formal/Mixed-Use,495.0,87.0,0.85
+2019,Embakasi West,600,340000,Formal/Mixed-Use,,,0.85
+2019,Makadara,334,189536,Formal/Mixed-Use,284.0,50.0,0.85
+2019,Starehe,371,210423,Formal/Mixed-Use,315.0,56.0,0.85
+2019,Mathare,365,206564,Informal Settlement,,,0.476
+2019,Kamukunji,473,268276,Informal Settlement,225.0,248.0,0.476
+2020,Westlands,328,310000,Formal/Mixed-Use,279.0,49.0,0.85
+2020,Dagoretti North,296,280000,Formal/Mixed-Use,252.0,44.0,0.85
+2020,Dagoretti South,163,154000,Formal/Mixed-Use,139.0,24.0,0.85
+2020,Langata,209,197489,Formal/Mixed-Use,178.0,31.0,0.85
+2020,Kibra,196,185777,Informal Settlement,93.0,103.0,0.476
+2020,Roysambu,317,300000,Formal/Mixed-Use,269.0,48.0,0.85
+2020,Kasarani,507,480000,Formal/Mixed-Use,431.0,76.0,0.85
+2020,Ruaraka,338,320000,Formal/Mixed-Use,287.0,51.0,0.85
+2020,Embakasi South,296,280000,Informal Settlement,,,0.476
+2020,Embakasi North,328,310000,Formal/Mixed-Use,279.0,49.0,0.85
+2020,Embakasi Central,307,290000,Formal/Mixed-Use,261.0,46.0,0.85
+2020,Embakasi East,349,330000,Formal/Mixed-Use,297.0,52.0,0.85
+2020,Embakasi West,359,340000,Formal/Mixed-Use,305.0,54.0,0.85
+2020,Makadara,200,189536,Formal/Mixed-Use,170.0,30.0,0.85
+2020,Starehe,222,210423,Formal/Mixed-Use,189.0,33.0,0.85
+2020,Mathare,218,206564,Informal Settlement,,,0.476
+2020,Kamukunji,284,268276,Informal Settlement,135.0,149.0,0.476
+2021,Westlands,479,310000,Formal/Mixed-Use,407.0,72.0,0.85
+2021,Dagoretti North,433,280000,Formal/Mixed-Use,368.0,65.0,0.85
+2021,Dagoretti South,238,154000,Formal/Mixed-Use,202.0,36.0,0.85
+2021,Langata,305,197489,Formal/Mixed-Use,259.0,46.0,0.85
+2021,Kibra,287,185777,Informal Settlement,137.0,150.0,0.476
+2021,Roysambu,463,300000,Formal/Mixed-Use,394.0,69.0,0.85
+2021,Kasarani,741,480000,Formal/Mixed-Use,630.0,111.0,0.85
+2021,Ruaraka,494,320000,Formal/Mixed-Use,,,0.85
+2021,Embakasi South,433,280000,Informal Settlement,206.0,227.0,0.476
+2021,Embakasi North,479,310000,Formal/Mixed-Use,407.0,72.0,0.85
+2021,Embakasi Central,448,290000,Formal/Mixed-Use,381.0,67.0,0.85
+2021,Embakasi East,510,330000,Formal/Mixed-Use,434.0,76.0,0.85
+2021,Embakasi West,525,340000,Formal/Mixed-Use,446.0,79.0,0.85
+2021,Makadara,293,189536,Formal/Mixed-Use,249.0,44.0,0.85
+2021,Starehe,325,210423,Formal/Mixed-Use,276.0,49.0,0.85
+2021,Mathare,319,206564,Informal Settlement,,,0.476
+2021,Kamukunji,414,268276,Informal Settlement,197.0,217.0,0.476
+2022,Westlands,568,310000,Formal/Mixed-Use,483.0,85.0,0.85
+2022,Dagoretti North,513,280000,Formal/Mixed-Use,436.0,77.0,0.85
+2022,Dagoretti South,282,154000,Formal/Mixed-Use,240.0,42.0,0.85
+2022,Langata,362,197489,Formal/Mixed-Use,308.0,54.0,0.85
+2022,Kibra,340,185777,Informal Settlement,,,0.476
+2022,Roysambu,549,300000,Formal/Mixed-Use,467.0,82.0,0.85
+2022,Kasarani,879,480000,Formal/Mixed-Use,747.0,132.0,0.85
+2022,Ruaraka,586,320000,Formal/Mixed-Use,498.0,88.0,0.85
+2022,Embakasi South,513,280000,Informal Settlement,244.0,269.0,0.476
+2022,Embakasi North,568,310000,Formal/Mixed-Use,483.0,85.0,0.85
+2022,Embakasi Central,531,290000,Formal/Mixed-Use,451.0,80.0,0.85
+2022,Embakasi East,604,330000,Formal/Mixed-Use,513.0,91.0,0.85
+2022,Embakasi West,623,340000,Formal/Mixed-Use,530.0,93.0,0.85
+2022,Makadara,347,189536,Formal/Mixed-Use,295.0,52.0,0.85
+2022,Starehe,385,210423,Formal/Mixed-Use,327.0,58.0,0.85
+2022,Mathare,378,206564,Informal Settlement,,,0.476
+2022,Kamukunji,491,268276,Informal Settlement,234.0,257.0,0.476
+2023,Westlands,740,310000,Formal/Mixed-Use,629.0,111.0,0.85
+2023,Dagoretti North,669,280000,Formal/Mixed-Use,569.0,100.0,0.85
+2023,Dagoretti South,368,154000,Formal/Mixed-Use,313.0,55.0,0.85
+2023,Langata,472,197489,Formal/Mixed-Use,401.0,71.0,0.85
+2023,Kibra,444,185777,Informal Settlement,211.0,233.0,0.476
+2023,Roysambu,716,300000,Formal/Mixed-Use,609.0,107.0,0.85
+2023,Kasarani,1146,480000,Formal/Mixed-Use,974.0,172.0,0.85
+2023,Ruaraka,764,320000,Formal/Mixed-Use,649.0,115.0,0.85
+2023,Embakasi South,669,280000,Informal Settlement,318.0,351.0,0.476
+2023,Embakasi North,740,310000,Formal/Mixed-Use,629.0,111.0,0.85
+2023,Embakasi Central,693,290000,Formal/Mixed-Use,589.0,104.0,0.85
+2023,Embakasi East,788,330000,Formal/Mixed-Use,670.0,118.0,0.85
+2023,Embakasi West,812,340000,Formal/Mixed-Use,690.0,122.0,0.85
+2023,Makadara,453,189536,Formal/Mixed-Use,,,0.85
+2023,Starehe,502,210423,Formal/Mixed-Use,427.0,75.0,0.85
+2023,Mathare,493,206564,Informal Settlement,,,0.476
+2023,Kamukunji,641,268276,Informal Settlement,305.0,336.0,0.476
+2024,Westlands,649,310000,Formal/Mixed-Use,552.0,97.0,0.85
+2024,Dagoretti North,587,280000,Formal/Mixed-Use,499.0,88.0,0.85
+2024,Dagoretti South,323,154000,Formal/Mixed-Use,275.0,48.0,0.85
+2024,Langata,414,197489,Formal/Mixed-Use,352.0,62.0,0.85
+2024,Kibra,389,185777,Informal Settlement,185.0,204.0,0.476
+2024,Roysambu,628,300000,Formal/Mixed-Use,534.0,94.0,0.85
+2024,Kasarani,1006,480000,Formal/Mixed-Use,855.0,151.0,0.85
+2024,Ruaraka,670,320000,Formal/Mixed-Use,570.0,100.0,0.85
+2024,Embakasi South,587,280000,Informal Settlement,,,0.476
+2024,Embakasi North,649,310000,Formal/Mixed-Use,552.0,97.0,0.85
+2024,Embakasi Central,608,290000,Formal/Mixed-Use,517.0,91.0,0.85
+2024,Embakasi East,691,330000,Formal/Mixed-Use,587.0,104.0,0.85
+2024,Embakasi West,712,340000,Formal/Mixed-Use,605.0,107.0,0.85
+2024,Makadara,397,189536,Formal/Mixed-Use,337.0,60.0,0.85
+2024,Starehe,441,210423,Formal/Mixed-Use,375.0,66.0,0.85
+2024,Mathare,433,206564,Informal Settlement,,,0.476
+2024,Kamukunji,562,268276,Informal Settlement,268.0,294.0,0.476
